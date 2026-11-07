@@ -1,0 +1,202 @@
+{
+    "version": "0.4",
+    "title": "Global Kit Styles",
+    "type": "section",
+    "metadata": {
+        "template_type": "global-styles",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "additional_template_information": [
+            "These are the global theme styles configured through the Elementor Theme Styles area."
+        ],
+        "wp_page_template": "default"
+    },
+    "content": [],
+    "page_settings": {
+        "system_colors": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "color": "#FCCC00"
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "color": "#1E1D24"
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "color": "#5E5E5E"
+            },
+            {
+                "_id": "accent",
+                "title": "White",
+                "color": "#FFFFFF"
+            }
+        ],
+        "custom_colors": [],
+        "system_typography": [
+            {
+                "_id": "primary",
+                "title": "Primary",
+                "typography_typography": "custom",
+                "typography_font_family": "Poppins",
+                "typography_font_weight": "600"
+            },
+            {
+                "_id": "secondary",
+                "title": "Secondary",
+                "typography_typography": "custom",
+                "typography_font_family": "Poppins",
+                "typography_font_weight": "400"
+            },
+            {
+                "_id": "text",
+                "title": "Text",
+                "typography_typography": "custom",
+                "typography_font_family": "Poppins",
+                "typography_font_weight": "400"
+            },
+            {
+                "_id": "accent",
+                "title": "Accent",
+                "typography_typography": "custom",
+                "typography_font_family": "Poppins",
+                "typography_font_weight": "500"
+            }
+        ],
+        "custom_typography": [],
+        "default_generic_fonts": "Sans-serif",
+        "link_normal_typography_typography": "custom",
+        "h1_typography_typography": "custom",
+        "h1_typography_font_family": "Poppins",
+        "h2_typography_typography": "custom",
+        "h2_typography_font_family": "Poppins",
+        "site_name": "Tajdid - Template Kit",
+        "site_description": "Template Kit",
+        "page_title_selector": "h1.entry-title",
+        "activeItemIndex": 1,
+        "__globals__": {
+            "h2_color": "globals\/colors?id=secondary",
+            "h1_color": "globals\/colors?id=secondary",
+            "body_color": "globals\/colors?id=text",
+            "link_normal_color": "globals\/colors?id=secondary",
+            "h3_color": "globals\/colors?id=secondary",
+            "h4_color": "globals\/colors?id=secondary",
+            "h5_color": "globals\/colors?id=secondary",
+            "h6_color": "globals\/colors?id=secondary",
+            "button_text_color": "globals\/colors?id=secondary",
+            "button_background_color": "globals\/colors?id=primary",
+            "button_hover_background_color": "globals\/colors?id=secondary",
+            "form_field_text_color": "globals\/colors?id=text",
+            "button_hover_text_color": "globals\/colors?id=accent"
+        },
+        "body_typography_typography": "custom",
+        "body_typography_font_family": "Poppins",
+        "body_typography_font_size": {
+            "unit": "px",
+            "size": 14,
+            "sizes": []
+        },
+        "link_normal_typography_font_family": "Poppins",
+        "link_normal_typography_font_size": {
+            "unit": "px",
+            "size": 14,
+            "sizes": []
+        },
+        "h2_typography_font_size": {
+            "unit": "px",
+            "size": 36,
+            "sizes": []
+        },
+        "h2_typography_font_weight": "700",
+        "h3_typography_typography": "custom",
+        "h3_typography_font_family": "Poppins",
+        "h4_typography_typography": "custom",
+        "h4_typography_font_family": "Poppins",
+        "h4_typography_font_size": {
+            "unit": "px",
+            "size": 22,
+            "sizes": []
+        },
+        "h4_typography_font_weight": "600",
+        "h5_typography_typography": "custom",
+        "h5_typography_font_family": "Poppins",
+        "h5_typography_font_size": {
+            "unit": "px",
+            "size": 17,
+            "sizes": []
+        },
+        "h6_typography_typography": "custom",
+        "h6_typography_font_size": {
+            "unit": "px",
+            "size": 15,
+            "sizes": []
+        },
+        "form_field_typography_typography": "custom",
+        "form_field_typography_font_size": {
+            "unit": "px",
+            "size": 13,
+            "sizes": []
+        },
+        "form_field_border_radius": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": true
+        },
+        "h6_typography_font_family": "Poppins",
+        "button_typography_typography": "custom",
+        "button_typography_font_weight": "500",
+        "button_border_radius": {
+            "unit": "px",
+            "top": "0",
+            "right": "0",
+            "bottom": "0",
+            "left": "0",
+            "isLinked": false
+        },
+        "button_padding": {
+            "unit": "px",
+            "top": "15",
+            "right": "30",
+            "bottom": "15",
+            "left": "30",
+            "isLinked": false
+        },
+        "h5_typography_font_weight": "700",
+        "h5_typography_line_height": {
+            "unit": "em",
+            "size": 1.600000000000000088817841970012523233890533447265625,
+            "sizes": []
+        },
+        "h2_typography_line_height": {
+            "unit": "em",
+            "size": 1.1999999999999999555910790149937383830547332763671875,
+            "sizes": []
+        },
+        "h3_typography_font_size": {
+            "unit": "px",
+            "size": 30,
+            "sizes": []
+        },
+        "h3_typography_font_weight": "700",
+        "form_label_typography_typography": "custom",
+        "form_label_typography_line_height": {
+            "unit": "em",
+            "size": 2,
+            "sizes": []
+        },
+        "form_field_padding": {
+            "unit": "px",
+            "top": "10",
+            "right": "20",
+            "bottom": "10",
+            "left": "20",
+            "isLinked": false
+        }
+    }
+}

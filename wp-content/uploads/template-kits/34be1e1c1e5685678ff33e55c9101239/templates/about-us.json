@@ -1,0 +1,1348 @@
+{
+    "version": "0.4",
+    "title": "About us",
+    "type": "page",
+    "metadata": {
+        "template_type": "single-page",
+        "include_in_zip": "1",
+        "elementor_pro_required": null,
+        "wp_page_template": "elementor_canvas"
+    },
+    "content": [
+        {
+            "id": "52f9401d",
+            "settings": {
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/image962-2.png",
+                    "id": 217
+                },
+                "background_position": "top center",
+                "background_attachment": "fixed",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.59999999999999997779553950749686919152736663818359375,
+                    "sizes": []
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "150",
+                    "right": "0",
+                    "bottom": "150",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_color": "",
+                    "background_overlay_color": "globals\/colors?id=secondary"
+                }
+            },
+            "elements": [
+                {
+                    "id": "b4d5b57",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "25",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "23be022e",
+                            "settings": {
+                                "title": "About us",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 58,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "700",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=accent"
+                                },
+                                "typography_font_size_mobile": {
+                                    "unit": "px",
+                                    "size": 46,
+                                    "sizes": []
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "4a584b0b",
+            "settings": {
+                "structure": "32",
+                "padding": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "70",
+                    "right": "25",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5fbd3d6f",
+                    "settings": {
+                        "_column_size": 50,
+                        "_inline_size": 40
+                    },
+                    "elements": [
+                        {
+                            "id": "6f512696",
+                            "settings": {
+                                "title": "About us",
+                                "header_size": "span",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "30ebfaa6",
+                            "settings": {
+                                "title": "We Are a Professional Team in Renovating",
+                                "_animation": "slideInLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "77e30138",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 45,
+                        "content_position": "center"
+                    },
+                    "elements": [
+                        {
+                            "id": "116fd948",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. luctus nec ullamcorper mattis, pulvinar dapibus leo.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "31b7cc90",
+                    "settings": {
+                        "_column_size": 25,
+                        "_inline_size": 15,
+                        "border_border": "solid",
+                        "border_width": {
+                            "unit": "px",
+                            "top": "5",
+                            "right": "5",
+                            "bottom": "5",
+                            "left": "5",
+                            "isLinked": true
+                        },
+                        "text_align": "center",
+                        "padding": {
+                            "unit": "px",
+                            "top": "25",
+                            "right": "0",
+                            "bottom": "25",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "__globals__": {
+                            "border_color": "globals\/colors?id=primary"
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "6ce29953",
+                            "settings": {
+                                "title": "12",
+                                "align": "center",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 50,
+                                    "sizes": []
+                                },
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "2ba539bf",
+                            "settings": {
+                                "title": "Years  Experience",
+                                "header_size": "span",
+                                "_margin": {
+                                    "unit": "px",
+                                    "top": "-20",
+                                    "right": "0",
+                                    "bottom": "0",
+                                    "left": "0",
+                                    "isLinked": false
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "7d18545b",
+            "settings": {
+                "structure": "21",
+                "padding": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "0",
+                    "bottom": "0",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "20",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "4f995f42",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": 40,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "15",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100,
+                        "margin_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "2",
+                            "bottom": "0",
+                            "left": "2",
+                            "isLinked": false
+                        },
+                        "padding_mobile": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "45823c19",
+                            "settings": {
+                                "eihe_effect": "eihe-shutter-out-diag-1",
+                                "eihe_image": {
+                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/tajdid1.png",
+                                    "id": 180
+                                },
+                                "eihe_title": "",
+                                "eihe_description": "",
+                                "eihe_background_color": "#FCCC000D",
+                                "__globals__": {
+                                    "eihe_background_color": ""
+                                },
+                                "eihe_padding": {
+                                    "unit": "px",
+                                    "top": "30",
+                                    "right": "30",
+                                    "bottom": "30",
+                                    "left": "30",
+                                    "isLinked": true
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "e_image_hover_effects",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "50d667d3",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": 59.66499999999999914734871708787977695465087890625,
+                        "padding": {
+                            "unit": "px",
+                            "top": "42",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100,
+                        "padding_tablet": {
+                            "unit": "px",
+                            "top": "20",
+                            "right": "0",
+                            "bottom": "0",
+                            "left": "10",
+                            "isLinked": false
+                        }
+                    },
+                    "elements": [
+                        {
+                            "id": "2fb53fb2",
+                            "settings": {
+                                "editor": "<p>\" Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. \"<\/p>",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "typography_font_style": "italic",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "5f0f21b9",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<\/p>"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "77850202",
+                            "settings": {
+                                "structure": "20"
+                            },
+                            "elements": [
+                                {
+                                    "id": "20f624aa",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding": {
+                                            "unit": "px",
+                                            "top": "0",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "18911374",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Proffesional Workers",
+                                                        "_id": "3239138"
+                                                    },
+                                                    {
+                                                        "text": "Advanced Tools",
+                                                        "_id": "1d7470a"
+                                                    },
+                                                    {
+                                                        "text": "Faster Work",
+                                                        "_id": "0c6c6b6"
+                                                    },
+                                                    {
+                                                        "text": "Save Value Money",
+                                                        "_id": "1c83a41"
+                                                    },
+                                                    {
+                                                        "text": "Working Gurantee",
+                                                        "_id": "aeed551"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "text_indent": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "2bf7d123",
+                                    "settings": {
+                                        "_column_size": 50,
+                                        "_inline_size": null,
+                                        "padding_mobile": {
+                                            "unit": "px",
+                                            "top": "17",
+                                            "right": "0",
+                                            "bottom": "0",
+                                            "left": "0",
+                                            "isLinked": false
+                                        }
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "5d0d6f39",
+                                            "settings": {
+                                                "icon_list": [
+                                                    {
+                                                        "text": "Durable Material",
+                                                        "_id": "9c284ce"
+                                                    },
+                                                    {
+                                                        "text": "Faster Come",
+                                                        "_id": "3239138"
+                                                    },
+                                                    {
+                                                        "text": "Trusted Company",
+                                                        "_id": "1d7470a"
+                                                    },
+                                                    {
+                                                        "text": "And many more",
+                                                        "_id": "0c6c6b6"
+                                                    }
+                                                ],
+                                                "space_between": {
+                                                    "unit": "px",
+                                                    "size": 16,
+                                                    "sizes": []
+                                                },
+                                                "text_indent": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "icon_color": "globals\/colors?id=primary"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "icon-list",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "1888bf20",
+            "settings": {
+                "structure": "22",
+                "background_background": "classic",
+                "background_image": {
+                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/tajdid2.png",
+                    "id": 181
+                },
+                "background_position": "top center",
+                "background_repeat": "no-repeat",
+                "background_size": "cover",
+                "background_overlay_background": "classic",
+                "background_overlay_opacity": {
+                    "unit": "px",
+                    "size": 0.770000000000000017763568394002504646778106689453125,
+                    "sizes": []
+                },
+                "margin": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "80",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "__globals__": {
+                    "background_overlay_color": ""
+                },
+                "background_overlay_color": "#1E1D24",
+                "margin_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "20",
+                    "bottom": "80",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "34f98fe9",
+                    "settings": {
+                        "_column_size": 66,
+                        "_inline_size": null,
+                        "margin": {
+                            "unit": "px",
+                            "top": "0",
+                            "right": "20",
+                            "bottom": "0",
+                            "left": "0",
+                            "isLinked": false
+                        },
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "720129d9",
+                            "settings": {
+                                "title": "As Long as We Stand We Are The Results of our Statistics",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=accent"
+                                },
+                                "_animation": "slideInLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "626d68b7",
+                            "settings": {
+                                "editor": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit.<\/p><p>Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.<\/p>",
+                                "__globals__": {
+                                    "text_color": "globals\/colors?id=accent"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "text-editor",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "7dce6489",
+                            "settings": {
+                                "text": "Divider",
+                                "__globals__": {
+                                    "color": "globals\/colors?id=primary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "divider",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "6f8528e4",
+                            "settings": {
+                                "structure": "40"
+                            },
+                            "elements": [
+                                {
+                                    "id": "e085b36",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "22ba53d2",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/g453.png",
+                                                    "id": 63
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "",
+                                                    "height": "45"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "352cc3a1",
+                                            "settings": {
+                                                "ending_number": 760,
+                                                "title": "Customer",
+                                                "typography_number_typography": "custom",
+                                                "typography_number_font_size": {
+                                                    "unit": "px",
+                                                    "size": 36,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#BBBBBB",
+                                                "typography_title_typography": "custom",
+                                                "typography_title_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=accent"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "654be601",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "495563d4",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/g384.png",
+                                                    "id": 110
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "",
+                                                    "height": "45"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5bd72407",
+                                            "settings": {
+                                                "ending_number": 980,
+                                                "title": "Done Project",
+                                                "typography_number_typography": "custom",
+                                                "typography_number_font_size": {
+                                                    "unit": "px",
+                                                    "size": 36,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#BBBBBB",
+                                                "typography_title_typography": "custom",
+                                                "typography_title_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=accent"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "700f3da8",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "370ca218",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/g354.png",
+                                                    "id": 107
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "",
+                                                    "height": "45"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "5293fbfe",
+                                            "settings": {
+                                                "ending_number": 340,
+                                                "title": "On Progress",
+                                                "typography_number_typography": "custom",
+                                                "typography_number_font_size": {
+                                                    "unit": "px",
+                                                    "size": 36,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#BBBBBB",
+                                                "typography_title_typography": "custom",
+                                                "typography_title_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=accent"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                },
+                                {
+                                    "id": "629893d6",
+                                    "settings": {
+                                        "_column_size": 25,
+                                        "_inline_size": null
+                                    },
+                                    "elements": [
+                                        {
+                                            "id": "691430cc",
+                                            "settings": {
+                                                "image": {
+                                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/g5s97.png",
+                                                    "id": 108
+                                                },
+                                                "image_size": "custom",
+                                                "image_custom_dimension": {
+                                                    "width": "",
+                                                    "height": "45"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "image",
+                                            "elType": "widget"
+                                        },
+                                        {
+                                            "id": "7aae4fa",
+                                            "settings": {
+                                                "ending_number": 260,
+                                                "title": "Repeat Order",
+                                                "typography_number_typography": "custom",
+                                                "typography_number_font_size": {
+                                                    "unit": "px",
+                                                    "size": 36,
+                                                    "sizes": []
+                                                },
+                                                "title_color": "#BBBBBB",
+                                                "typography_title_typography": "custom",
+                                                "typography_title_font_size": {
+                                                    "unit": "px",
+                                                    "size": 14,
+                                                    "sizes": []
+                                                },
+                                                "__globals__": {
+                                                    "number_color": "globals\/colors?id=accent"
+                                                }
+                                            },
+                                            "elements": [],
+                                            "isInner": false,
+                                            "widgetType": "counter",
+                                            "elType": "widget"
+                                        }
+                                    ],
+                                    "isInner": true,
+                                    "elType": "column"
+                                }
+                            ],
+                            "isInner": true,
+                            "elType": "section"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3b3eaa92",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null,
+                        "_inline_size_tablet": 100
+                    },
+                    "elements": [
+                        {
+                            "id": "74d70971",
+                            "settings": {
+                                "eihe_effect": "eihe-shutter-out-diag-2",
+                                "eihe_image": {
+                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/tajdid3.png",
+                                    "id": 182
+                                },
+                                "eihe_title": "",
+                                "eihe_description": "",
+                                "eihe_background_color": "#FCCC000D",
+                                "__globals__": {
+                                    "eihe_background_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "e_image_hover_effects",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "6e2bb5cd",
+            "settings": {
+                "padding": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "0",
+                    "bottom": "40",
+                    "left": "0",
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "80",
+                    "right": "20",
+                    "bottom": "40",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5352ca3f",
+                    "settings": {
+                        "_column_size": 100,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "37f5d059",
+                            "settings": {
+                                "title": "Project",
+                                "header_size": "span",
+                                "typography_typography": "custom",
+                                "typography_font_size": {
+                                    "unit": "px",
+                                    "size": 16,
+                                    "sizes": []
+                                },
+                                "typography_font_weight": "500",
+                                "__globals__": {
+                                    "title_color": "globals\/colors?id=secondary"
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        },
+                        {
+                            "id": "62f92c50",
+                            "settings": {
+                                "title": "Looks Our <br>Amazing Project Done",
+                                "_animation": "slideInLeft"
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "heading",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "47d87efe",
+            "settings": {
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "0",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "296ea7e2",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "628c3360",
+                            "settings": {
+                                "eihe_effect": "eihe-shutter-out-diag-1",
+                                "eihe_image": {
+                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/tajdidproject2.png",
+                                    "id": 238
+                                },
+                                "eihe_title": "Renovation",
+                                "eihe_description": "Renovation Office Home",
+                                "eihe_link": {
+                                    "url": "#",
+                                    "is_external": false,
+                                    "nofollow": false,
+                                    "custom_attributes": ""
+                                },
+                                "eihe_background_color": "#1E1D2478",
+                                "eihe_title_typography_typography": "custom",
+                                "eihe_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "eihe_title_typography_font_weight": "400",
+                                "eihe_description_typography_typography": "custom",
+                                "eihe_description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "eihe_description_typography_font_weight": "600",
+                                "__globals__": {
+                                    "eihe_background_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "e_image_hover_effects",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "59acab2a",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "45d235b",
+                            "settings": {
+                                "eihe_effect": "eihe-shutter-out-diag-1",
+                                "eihe_image": {
+                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/tajdidproject1.png",
+                                    "id": 237
+                                },
+                                "eihe_title": "Renovation",
+                                "eihe_description": "Renovation Office Home",
+                                "eihe_link": {
+                                    "url": "#",
+                                    "is_external": false,
+                                    "nofollow": false,
+                                    "custom_attributes": ""
+                                },
+                                "eihe_background_color": "#1E1D2478",
+                                "eihe_title_typography_typography": "custom",
+                                "eihe_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "eihe_title_typography_font_weight": "400",
+                                "eihe_description_typography_typography": "custom",
+                                "eihe_description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "eihe_description_typography_font_weight": "600",
+                                "__globals__": {
+                                    "eihe_background_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "e_image_hover_effects",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "3f8fb68",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "3fcaaf0d",
+                            "settings": {
+                                "eihe_effect": "eihe-shutter-out-diag-1",
+                                "eihe_image": {
+                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/tajdidproject6.png",
+                                    "id": 242
+                                },
+                                "eihe_title": "Renovation",
+                                "eihe_description": "Renovation Office Home",
+                                "eihe_link": {
+                                    "url": "#",
+                                    "is_external": false,
+                                    "nofollow": false,
+                                    "custom_attributes": ""
+                                },
+                                "eihe_background_color": "#1E1D2478",
+                                "eihe_title_typography_typography": "custom",
+                                "eihe_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "eihe_title_typography_font_weight": "400",
+                                "eihe_description_typography_typography": "custom",
+                                "eihe_description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "eihe_description_typography_font_weight": "600",
+                                "__globals__": {
+                                    "eihe_background_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "e_image_hover_effects",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        },
+        {
+            "id": "682de562",
+            "settings": {
+                "structure": "30",
+                "margin": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": 0,
+                    "bottom": "80",
+                    "left": 0,
+                    "isLinked": false
+                },
+                "padding_tablet": {
+                    "unit": "px",
+                    "top": "0",
+                    "right": "20",
+                    "bottom": "0",
+                    "left": "20",
+                    "isLinked": false
+                }
+            },
+            "elements": [
+                {
+                    "id": "5ff1d429",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "3c7b57e",
+                            "settings": {
+                                "eihe_effect": "eihe-shutter-out-diag-1",
+                                "eihe_image": {
+                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/tajdidproject5.png",
+                                    "id": 241
+                                },
+                                "eihe_title": "Renovation",
+                                "eihe_description": "Renovation Office Home",
+                                "eihe_link": {
+                                    "url": "#",
+                                    "is_external": false,
+                                    "nofollow": false,
+                                    "custom_attributes": ""
+                                },
+                                "eihe_background_color": "#1E1D2478",
+                                "eihe_title_typography_typography": "custom",
+                                "eihe_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "eihe_title_typography_font_weight": "400",
+                                "eihe_description_typography_typography": "custom",
+                                "eihe_description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "eihe_description_typography_font_weight": "600",
+                                "__globals__": {
+                                    "eihe_background_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "e_image_hover_effects",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "27fed414",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "77fbf3e2",
+                            "settings": {
+                                "eihe_effect": "eihe-shutter-out-diag-1",
+                                "eihe_image": {
+                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/tajdidproject4.png",
+                                    "id": 240
+                                },
+                                "eihe_title": "Renovation",
+                                "eihe_description": "Renovation Office Home",
+                                "eihe_link": {
+                                    "url": "#",
+                                    "is_external": false,
+                                    "nofollow": false,
+                                    "custom_attributes": ""
+                                },
+                                "eihe_background_color": "#1E1D2478",
+                                "eihe_title_typography_typography": "custom",
+                                "eihe_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "eihe_title_typography_font_weight": "400",
+                                "eihe_description_typography_typography": "custom",
+                                "eihe_description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "eihe_description_typography_font_weight": "600",
+                                "__globals__": {
+                                    "eihe_background_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "e_image_hover_effects",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                },
+                {
+                    "id": "6a6a37e4",
+                    "settings": {
+                        "_column_size": 33,
+                        "_inline_size": null
+                    },
+                    "elements": [
+                        {
+                            "id": "f991e85",
+                            "settings": {
+                                "eihe_effect": "eihe-shutter-out-diag-1",
+                                "eihe_image": {
+                                    "url": "http:\/\/rabonadev.com\/tajdid\/wp-content\/uploads\/2021\/01\/tajdidproject3.png",
+                                    "id": 239
+                                },
+                                "eihe_title": "Renovation",
+                                "eihe_description": "Renovation Office Home",
+                                "eihe_link": {
+                                    "url": "#",
+                                    "is_external": false,
+                                    "nofollow": false,
+                                    "custom_attributes": ""
+                                },
+                                "eihe_background_color": "#1E1D2478",
+                                "eihe_title_typography_typography": "custom",
+                                "eihe_title_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 14,
+                                    "sizes": []
+                                },
+                                "eihe_title_typography_font_weight": "400",
+                                "eihe_description_typography_typography": "custom",
+                                "eihe_description_typography_font_size": {
+                                    "unit": "px",
+                                    "size": 18,
+                                    "sizes": []
+                                },
+                                "eihe_description_typography_font_weight": "600",
+                                "__globals__": {
+                                    "eihe_background_color": ""
+                                }
+                            },
+                            "elements": [],
+                            "isInner": false,
+                            "widgetType": "e_image_hover_effects",
+                            "elType": "widget"
+                        }
+                    ],
+                    "isInner": false,
+                    "elType": "column"
+                }
+            ],
+            "isInner": false,
+            "elType": "section"
+        }
+    ]
+}
